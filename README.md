@@ -1,7 +1,7 @@
 ## Olá! Eu sou Ródiney
 
 - 🔭 Atualmente estou trabalhando como Recepcionista.
-- 🌱 Atualmente estou aprendendo Internet das Coisas.
+- 🌱 Faço faculdade de Internet das Coisas.
 - 🤔 Estou muito interessado em trabalhar com Código Aberto. 
 - 😊 Pronomes: ele/dele
 - ⚡ Curiosidade: Sou Ilustrador 2D, gosto de aprender um pouco de tudo e atualmente utilizo Sistema Linux Pop OS.
