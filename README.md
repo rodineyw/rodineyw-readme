@@ -6,7 +6,7 @@
 - 😊 Pronomes: ele/dele
 - ⚡ Curiosidade: Sou Ilustrador 2D, gosto de aprender um pouco de tudo e atualmente utilizo Sistema Linux Pop OS.
 
-## Hello! I'm Rodney
+## Hello! I'm Rodiney
 
 - 🔭 I am currently working as a Receptionist.
 - 🌱 I study the Internet of Things.
