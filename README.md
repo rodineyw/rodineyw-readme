@@ -46,7 +46,7 @@
                  
 <div>
   <a href="https://www.apple.com/br/ios/ios-16/">
-  <img height="40em" src="![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)"/>
+  <img height="40em" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
    <a href="https://system76.com/desktops">
   <img height="40em" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
    <a href="https://www.microsoft.com/pt-br/windows/get-windows-10">
