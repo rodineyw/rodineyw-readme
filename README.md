@@ -73,8 +73,3 @@
 
 ![Snake animation](https://github.com/rodineyw/rodineyw/blob/output/github-contribution-grid-snake.svg)
    
-                                                                                                                        
-## Numero de Visitantes 😶‍🌫️ <br>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/rodineyw/count.svg" />
-</p>
