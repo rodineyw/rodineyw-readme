@@ -74,7 +74,7 @@
 ![Snake animation](https://github.com/rodineyw/rodineyw/blob/output/github-contribution-grid-snake.svg)
    
                                                                                                                         
-## Total de Visitas no perfil 🔎 <br>
+## Total de Visitas no perfil 😶‍🌫️ <br>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/giovanniryan/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/rodineyw/count.svg" />
 </p>
