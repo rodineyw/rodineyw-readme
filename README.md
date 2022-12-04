@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/rodineyw">
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&theme=dracula"ude_all_commits=true&count_private=true"/>
-  <img height="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineyw&langs_count=8https://github.com/rodineyw/github-readme-stats&theme=dracula&lang_count=10" />
+  <img height="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineyw&langs_count=8https://github.com/rodineyw/github-readme-stats&theme=dracula&langs_count=8" />
 
 ##
 
