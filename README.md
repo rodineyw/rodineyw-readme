@@ -6,14 +6,6 @@
 - 😊 Pronomes: ele/dele
 - ⚡ Curiosidade: Sou Ilustrador 2D, gosto de aprender um pouco de tudo e atualmente utilizo Sistema Linux Pop OS.
 
-## Hello! I'm Rodiney
-
-- 🔭 I am currently working as a Receptionist.
-- 🌱 I study the Internet of Things.
-- 🤔 I am very interested in working with Open Source.
-- 😊 Pronouns: he/his
-- ⚡ Curiosity: I'm a 2D Illustrator, I like to learn a little about everything and I currently use Linux Pop OS System.
-
 ##
 
 <div>
@@ -23,7 +15,10 @@
 
 ##
 
+
 <p align="center">
+                 <h2>Social Midia 😊</h2>
+                 
 <div>
   <a href="https://www.behance.net/roodart_">
   <img height="40em" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
@@ -47,6 +42,8 @@
 ##
 
 <p align="center">
+                 <h2>Sistemas que eu uso 👨‍💻</h2>
+                 
 <div>
   <a href="https://www.apple.com/br/ios/ios-16/">
   <img height="40em" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
@@ -60,6 +57,8 @@
 ##
 
 <p align="center">
+                 <h2>PC config 🖥️</h2>
+                 
 <div>
   <a href="https://www.amd.com/pt/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-380x">
   <img height="40em" src="https://img.shields.io/badge/AMD_R9_380x-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
