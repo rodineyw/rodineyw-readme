@@ -1,10 +1,10 @@
 ## Olá! Eu sou [Ródiney](https://github.com/rodineyw).
 
-- 🔭 Atualmente trabalho na DASA (Diagnósticos da América S.A.).
-- 🌱 Faço faculdade de Internet das Coisas.
-- 🤔 Estou muito interessado em trabalhar com Código Aberto. 
+- 👔 Atualmente trabalho na DASA (Diagnósticos da América S.A.).
+- 📚️ Faço faculdade de Internet das Coisas.
+- 🥰 Estou muito interessado em trabalhar com Código Aberto. 
 - 😊 Pronomes: ele/dele
-- ⚡ Curiosidade: Sou Ilustrador 2D, gosto de aprender um pouco de tudo e atualmente utilizo Sistema Linux Pop OS.
+- 🧐 Curiosidade: Sou Ilustrador 2D, gosto de aprender um pouco de tudo e atualmente utilizo Sistema Linux Pop OS.
 
 ##
 
