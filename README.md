@@ -1,6 +1,6 @@
 ## Olá! Eu sou [Ródiney](https://github.com/rodineyw).
 
-- 🔭 Atualmente estou trabalho na DASA (Diagnósticos da América S.A.).
+- 🔭 Atualmente trabalho na DASA (Diagnósticos da América S.A.).
 - 🌱 Faço faculdade de Internet das Coisas.
 - 🤔 Estou muito interessado em trabalhar com Código Aberto. 
 - 😊 Pronomes: ele/dele
