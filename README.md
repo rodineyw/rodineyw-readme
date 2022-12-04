@@ -46,7 +46,7 @@
                  
 <div>
   <a href="https://www.apple.com/br/ios/ios-16/">
-  <img height="40em" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+  <img height="40em" src="![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)"/>
    <a href="https://system76.com/desktops">
   <img height="40em" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
    <a href="https://www.microsoft.com/pt-br/windows/get-windows-10">
@@ -64,6 +64,8 @@
   <img height="40em" src="https://img.shields.io/badge/AMD_R9_380x-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <a href="https://www.intel.com.br/content/www/br/pt/products/sku/77486/intel-core-i34150-processor-3m-cache-3-50-ghz/specifications.html">
   <img height="40em" src="https://img.shields.io/badge/Intel-Core_i3_4th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+  <a href="https://br.msi.com/Motherboard/H81M-E33/Gallery)">
+  <img height="40em" src="https://img.shields.io/badge/H81M-E33-0071C5?style=for-the-badge&logo=MSI&logoColor=white" />
 </div>
 </p>
 
