@@ -1,9 +1,6 @@
 ## 
-<div>
-  
   <h2 align="center">Olá! Eu sou [Ródiney](https://github.com/rodineyw).</h2>
  
-</div
 ##
 
   <div>
