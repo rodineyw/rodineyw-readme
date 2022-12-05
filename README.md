@@ -1,4 +1,9 @@
-## Olá! Eu sou [Ródiney](https://github.com/rodineyw).
+## 
+<p align="center">
+Olá! Eu sou [Ródiney](https://github.com/rodineyw).
+</p>
+##
+
 <div>
   <p align="center">
 - 👔 Atualmente trabalho na DASA (Diagnósticos da América S.A.).
