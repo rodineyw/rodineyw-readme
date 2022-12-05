@@ -1,8 +1,6 @@
 ## 
   <h2 align="center">Olá! Eu sou Ródiney. </h2>
  
-##
-
   <div>
   <p align="center">
 - 👔 Atualmente trabalho na DASA (Diagnósticos da América S.A.).
