@@ -1,7 +1,10 @@
 ## 
 <p align="center">
+  
 Olá! Eu sou [Ródiney](https://github.com/rodineyw).
+  
 </p>
+
 ##
 
 <div>
