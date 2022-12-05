@@ -13,7 +13,8 @@
 - 😊 Pronomes: ele/dele
   </p>
   <p align="center">
-- 🧐 Curiosidade: Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), sou ilustrador 2D a 3 anos, amo tecnologia e pretendo me desenvolver nessa área. Sou curioso e gosto de aprender um pouco de tudo.
+- 🧐 Curiosidade:<br>
+Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), sou ilustrador 2D a 3 anos, amo tecnologia e pretendo me desenvolver nessa área. Sou curioso e gosto de aprender um pouco de tudo.
 Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto e Inteligência Artificial.
 
 Atualmente utilizo Sistema Linux Pop OS e Windows 10.
