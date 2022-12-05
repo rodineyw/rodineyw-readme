@@ -4,7 +4,8 @@
 - 📚️ Faço faculdade de Internet das Coisas.
 - 🥰 Estou muito interessado em trabalhar com Código Aberto. 
 - 😊 Pronomes: ele/dele
-- 🧐 Curiosidade: Sou Ilustrador 2D, gosto de aprender um pouco de tudo e atualmente utilizo Sistema Linux Pop OS.
+- 🧐 Curiosidade: Olá, pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), sou ilustrador 2D a 2 anos, amo tecnologia e pretendo me desenvolver nessa área. Sou curioso e gosto de aprender um pouco de tudo, sempre procuro evoluir em conhecimento.
+Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 
 ##
 
