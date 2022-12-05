@@ -1,12 +1,16 @@
 ## Olá! Eu sou [Ródiney](https://github.com/rodineyw).
-
+<div>
+  <p align="center">
 - 👔 Atualmente trabalho na DASA (Diagnósticos da América S.A.).
 - 📚️ Faço faculdade de Internet das Coisas.
 - 🥰 Estou muito interessado em trabalhar com Código Aberto. 
 - 😊 Pronomes: ele/dele
-- 🧐 Curiosidade: Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), sou ilustrador 2D a 3 anos, amo tecnologia e pretendo me desenvolver nessa área. Sou curioso e gosto de aprender um pouco de tudo, sempre procuro evoluir em conhecimento.
-Atualmente utilizo Sistema Linux Pop OS e Windows 10.
+- 🧐 Curiosidade: Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), sou ilustrador 2D a 3 anos, amo tecnologia e pretendo me desenvolver nessa área. Sou curioso e gosto de aprender um pouco de tudo.
+Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto e Inteligência Artificial.
 
+Atualmente utilizo Sistema Linux Pop OS e Windows 10.
+  </p>
+</div>
 ##
 
 <div>
