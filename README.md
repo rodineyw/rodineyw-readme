@@ -1,10 +1,8 @@
 ## 
 <div>
-<p align="center">
   
-  <h2>Olá! Eu sou [Ródiney](https://github.com/rodineyw).</h2>
-  
-</p>
+  <h2 align="center">Olá! Eu sou [Ródiney](https://github.com/rodineyw).</h2>
+ 
 </div
 ##
 
