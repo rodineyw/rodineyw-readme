@@ -24,8 +24,8 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 
 ##
 
-<div>
-  <a align="center" href="https://github.com/rodineyw">
+<div align="center">
+  <a href="https://github.com/rodineyw">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&theme=dracula"ude_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineyw&langs_count=8https://github.com/rodineyw/github-readme-stats&theme=dracula&langs_count=8" />
 
@@ -60,7 +60,7 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 <p>
                  <h2 align="center">Sistemas que eu uso 👨‍💻</h2>
                  
-<div>
+<div align="center">
   <a href="https://www.apple.com/br/ios/ios-16/">
   <img height="40em" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
    <a href="https://system76.com/desktops">
@@ -75,7 +75,7 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 <p>
                  <h2 align="center">PC config 🖥️</h2>
                  
-<div>
+<div align="center">
   <a href="https://www.amd.com/pt/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-380x">
   <img height="40em" src="https://img.shields.io/badge/AMD_R9_380x-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
   <a href="https://www.intel.com.br/content/www/br/pt/products/sku/77486/intel-core-i34150-processor-3m-cache-3-50-ghz/specifications.html">
@@ -86,6 +86,6 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 </p>
 
 ##
-
+<div align="center">
 ![Snake animation](https://github.com/rodineyw/rodineyw/blob/output/github-contribution-grid-snake.svg)
-   
+                   </div>
