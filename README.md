@@ -57,8 +57,8 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 
 ##
 
-<p align="center">
-                 <h2>Sistemas que eu uso 👨‍💻</h2>
+<p>
+                 <h2 align="center">Sistemas que eu uso 👨‍💻</h2>
                  
 <div>
   <a href="https://www.apple.com/br/ios/ios-16/">
@@ -72,8 +72,8 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 
 ##
 
-<p align="center">
-                 <h2>PC config 🖥️</h2>
+<p>
+                 <h2 align="center">PC config 🖥️</h2>
                  
 <div>
   <a href="https://www.amd.com/pt/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-380x">
