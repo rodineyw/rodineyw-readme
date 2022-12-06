@@ -35,7 +35,7 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 <p>
                  <h2 align="center">Social Midia 😊</h2>
                  
-<div>
+<div align="center">
   <a href="https://www.behance.net/roodart_">
   <img height="40em" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
   <a href="https://www.instagram.com/roodart_/?hl=pt-br">
