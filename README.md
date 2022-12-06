@@ -89,6 +89,8 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
                                                                                                                         
                                                                                                                         
 <div align="center">
+                   
+                   
 ![Snake animation](https://github.com/rodineyw/rodineyw/blob/output/github-contribution-grid-snake.svg)
                  
                    
