@@ -1,5 +1,5 @@
 ## 
-  <h2 align="center">Olá! Eu sou Ródiney. </h2>
+  <h2 align="center">Olá! Eu sou Ródiney mas podem me chamar de Rod. </h2>
  
   <div>
   <p align="center">
