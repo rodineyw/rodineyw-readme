@@ -30,7 +30,6 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
   <img height="180em" src="https://github-stats-readme-rnisrd1m6-rodineyw.vercel.app/api/top-langs/?username=rodineyw&langs_count=8https://github.com/rodineyw/github-readme-stats&theme=dracula&langs_count=8" />
 
 ##
-https://github-stats-readme-rnisrd1m6-rodineyw.vercel.app/
 
 <p>
                  <h2 align="center">Social Midia 😊</h2>
