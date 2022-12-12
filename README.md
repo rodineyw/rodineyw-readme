@@ -85,12 +85,7 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
   <img height="40em" src="https://img.shields.io/badge/MSI-H81M_E33-0071C5?style=for-the-badge&logo=MSI&logoColor=white"/>
 </div>
 </p>
-
-##
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->                                                                                                                      
+                         
 ##                                                                                                                        
 <div align="center">
                    
