@@ -87,8 +87,11 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 </p>
 
 ##
-                                                                                                                        
-                                                                                                                        
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->                                                                                                                      
+##                                                                                                                        
 <div align="center">
                    
                    
