@@ -33,6 +33,28 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 
 ##
 
+<h2 align="center">Frameworks 🧑🏼‍💻 </h2>
+
+<div align="center">
+<img height="40em" src="![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)"/>
+<img height="40em" src="![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)"/>
+</div>
+
+##
+
+<h2 align="center">Linguagens 🧑🏼‍🎤 </h2>
+
+<div align="center">
+<img height="40em" src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"/>
+<img height="40em" src="![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)"/>
+<img height="40em" src="![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)"/>
+<img height="40em" src="![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)"/>
+</div>
+
+##
+
+
+##
 <p>
                  <h2 align="center">Social Midia 😊</h2>
                  
