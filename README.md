@@ -23,11 +23,11 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 
 ##
 
-<div align="center">
+
 <a href="https://github.com/rodineyw">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineyw&layout=compact&theme=dracula&hide_border=true&count_private=true&&langs_count=10" />
-</div>
+
 
 
 <div style="display: center"><br>
