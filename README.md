@@ -87,12 +87,10 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
   <img height="40em" src="https://img.shields.io/badge/MSI-H81M_E33-0071C5?style=for-the-badge&logo=MSI&logoColor=white"/>
 </div>
 </p>
-                         
-##                                                                                                                        
+                                                                                                                   
 <div align="center">
                    
                    
 ![Snake animation](https://github.com/rodineyw/rodineyw/blob/output/github-contribution-grid-snake.svg)
-                 
-                   
+                  
 </div>
