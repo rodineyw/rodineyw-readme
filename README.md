@@ -1,4 +1,3 @@
-## 
   <h2 align="center">Olá! Eu sou Ródiney. </h2>
  
   <div>
@@ -25,10 +24,9 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 ##
 
 <div align="center">
-<a href="https://github.com/rodineyw/github-readme-stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" alt="Ródiney github stats" />
+<a href="https://github.com/rodineyw">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineyw&layout=compact&theme=dracula&hide_border=true&count_private=true&&langs_count=10" />
-</a>
 </div>
 
 
@@ -39,10 +37,6 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
-
-
-##
 <p>
                  <h2 align="center">Social Midia 😊</h2>
                  
@@ -66,7 +60,6 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 </div>
 </p>
 
-##
 
 <p>
                  <h2 align="center">Sistemas que eu uso 👨‍💻</h2>
@@ -81,7 +74,6 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 </div>
 </p>
 
-##
 
 <p>
                  <h2 align="center">PC config 🖥️</h2>
