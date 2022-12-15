@@ -1,4 +1,4 @@
-  <h2>Olá! Eu sou  [Ródiney](https://github.com/rodineyw). </h2>
+  <h2>Olá! Eu sou Ródiney. </h2>
  
   <div>
   <p>
