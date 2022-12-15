@@ -27,7 +27,7 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 <a href="https://github.com/rodineyw">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineyw&layout=compact&theme=dracula&hide_border=true&count_private=true&&langs_count=10" />
-<img height="150em" src="https://streak-stats.demolab.com?user=rodineyw&count_private=true&theme=dracula&border_radius=20" />
+<img height="150em" src="https://streak-stats.demolab.com?user=rodineyw&count_private=true&theme=dracula&border_radius=5&hide_border=true&langs_count=10" />
   </div>
 
 
