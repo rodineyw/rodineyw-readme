@@ -1,19 +1,19 @@
-  <h2 align="center">Olá! Eu sou Ródiney. </h2>
+  <h2>Olá! Eu sou Ródiney. </h2>
  
   <div>
-  <p align="center">
+  <p>
 - 👔 Atualmente trabalho na DASA (Diagnósticos da América S.A.).
   </p>
-  <p align="center">
+  <p>
 - 📚️ Faço faculdade de Internet das Coisas.
   </p>
-  <p align="center">
+  <p>
 - 🥰 Estou muito interessado em trabalhar com Código Aberto. 
   </p>
-  <p align="center">
+  <p>
 - 😊 Pronomes: ele/dele
   </p>
-  <p align="center">
+  <p>
 - 🧐 Curiosidade:<br>
 Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), sou ilustrador 2D a 3 anos, amo tecnologia e pretendo me desenvolver nessa área. Sou curioso e gosto de aprender um pouco de tudo.
 Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto e Inteligência Artificial.
@@ -39,7 +39,7 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 </div>
 
 <p>
-                 <h2 align="center">Social Midia 😊</h2>
+                 <h2>Social Midia 😊</h2>
                  
 <div align="center">
   <a href="https://www.behance.net/roodart_">
@@ -63,7 +63,7 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 
 
 <p>
-                 <h2 align="center">Sistemas que eu uso 👨‍💻</h2>
+                 <h2>Sistemas que eu uso 👨‍💻</h2>
                  
 <div align="center">
   <a href="https://www.apple.com/br/ios/ios-16/">
@@ -77,7 +77,7 @@ Atualmente utilizo Sistema Linux Pop OS e Windows 10.
 
 
 <p>
-                 <h2 align="center">PC config 🖥️</h2>
+                 <h2>PC config 🖥️</h2>
                  
 <div align="center">
   <a href="https://www.amd.com/pt/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-380x">
