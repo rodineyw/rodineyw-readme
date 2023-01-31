@@ -60,22 +60,7 @@ Atualmente utilizo Sistema Ubuntu 22.10 e Windows 10.
   <img height="40em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </div>
 </p>
-
-
-<p>
-                 <h2>Sistemas que eu uso 👨‍💻</h2>
-                 
-<div align="center">
-  <a href="https://www.apple.com/br/ios/ios-16/">
-  <img height="40em" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/>
-   <a href="https://system76.com/desktops">
-  <img height="40em" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white"/>
-   <a href="https://www.microsoft.com/pt-br/windows/get-windows-10">
-  <img height="40em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>  
-</div>
-</p>
-
-
+           
 <p>
                  <h2>PC config 🖥️</h2>
                  
