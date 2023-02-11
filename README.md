@@ -2,7 +2,7 @@
  
   <div>
   <p>
-- 👔 Atualmente trabalho na DASA (Diagnósticos da América S.A.).
+- 👔 Atualmente procurando emprego. 
   </p>
   <p>
 - 📚️ Faço faculdade de Internet das Coisas.
