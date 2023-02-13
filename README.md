@@ -37,32 +37,22 @@ Atualmente utilizo Sistema Ubuntu 22.10 e Windows 10.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-<p>
-                 <h2>Social Midia 😊</h2>
-                 
-<div align="center">
-  <a href="https://www.behance.net/roodart_">
-  <img height="40em" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
-  <a href="https://www.instagram.com/roodart_/?hl=pt-br">
-  <img sheight="40em" rc="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <a href="https://www.linkedin.com/in/r%C3%B3diney-wanderson-06945b90/">
-  <img height="40em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="https://br.pinterest.com/roodart_/">
-  <img sheight="40em" rc="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
-  <a href="https://www.reddit.com/user/iaeroooy">
-  <img height="40em" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-  <a href="https://twitter.com/eirood_">
-  <img height="40em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  <a href="https://www.twitch.tv/roodart_">
-  <img height="40em" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  <a href="https://www.youtube.com/channel/UCsPetLlWeL-GDhx-TU7wvvg">
-  <img height="40em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</div>
-</p>
+  
+  ##
+  
+  
+   <sub> <strong> Siga nas redes sociais: 😊 </strong> <br>
+  <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+   </sub>
            
-<p>
-                 <h2>PC config 🖥️</h2>
+
+  
+  <p><h2>PC config 🖥️</h2>
                  
 <div align="center">
   <a href="https://www.amd.com/pt/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-380x">
