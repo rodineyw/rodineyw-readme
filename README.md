@@ -45,7 +45,7 @@ Atualmente utilizo Sistema Ubuntu 22.10 e Windows 10.
   
   ##
   
-  <div>
+  <div align="center">
     <h2>Siga nas redes sociais: 😊</h2><br>     
     
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/rodineyw)
@@ -58,9 +58,9 @@ Atualmente utilizo Sistema Ubuntu 22.10 e Windows 10.
 
   ##
   
+  
+  <div align="center">
   <p><h2>PC config 🖥️</h2>
-                 
-<div align="center">
   <a href="https://www.amd.com/pt/support/graphics/amd-radeon-r9-series/amd-radeon-r9-300-series/amd-radeon-r9-380x">
   <img height="40em" src="https://img.shields.io/badge/AMD_R9_380x-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
   <a href="https://www.intel.com.br/content/www/br/pt/products/sku/77486/intel-core-i34150-processor-3m-cache-3-50-ghz/specifications.html">
