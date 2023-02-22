@@ -17,7 +17,7 @@
 - 🧐 Curiosidade:<br>
 Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), sou ilustrador 2D desde 2018, amo tecnologia e pretendo me desenvolver nessa área. Sou curioso e gosto de aprender um pouco de tudo.
 Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto e Inteligência Artificial.
-Atualmente utilizo Sistema Pop OS e Windows 10.
+Atualmente utilizo Sistema Ubuntu 22.10 e Windows 10.
   </p>
   </div>
 
@@ -28,8 +28,7 @@ Atualmente utilizo Sistema Pop OS e Windows 10.
 <a href="https://github.com/rodineyw">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" />
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineyw&layout=compact&theme=dracula&hide_border=true&count_private=true&&langs_count=10" />
-<img height="150em" src="https://streak-stats.demolab.com?user=rodineyw&count_private=true&theme=dracula&border_radius=5&hide_border=true&langs_count=10" />
-  </div>
+</div>
 
 ##
   
