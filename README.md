@@ -29,6 +29,8 @@ Atualmente utilizo Sistema Ubuntu 22.10 e Windows 10.
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineyw&layout=compact&theme=dracula&hide_border=true&count_private=true&&langs_count=10" />
 </div>
 
+<br><br>
+
 - Habilidades: **JavaScript, HTML, CSS, Node.JS**
 
 ## Contact
