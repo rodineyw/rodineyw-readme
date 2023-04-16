@@ -56,10 +56,6 @@ Atualmente utilizo Sistema Ubuntu 22.10 e Windows 10.
  <img align="center" src="https://img.shields.io/badge/-eirood_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-
-  ##
-  
   
   <div align="center">
   <p><h2>PC config 🖥️</h2>
