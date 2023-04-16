@@ -32,7 +32,7 @@ Atualmente utilizo Sistema Ubuntu 22.10 e Windows 10.
 <a href="https://twitter.com/eirood_" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-eirood_-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/rodineywanderson" target="_blank">
+<a href="https://www.linkedin.com/in/r%C3%B3diney-wanderson-06945b90/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Rodiney Wanderson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/eirood_" target="_blank">
