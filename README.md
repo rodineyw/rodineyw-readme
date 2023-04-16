@@ -47,13 +47,13 @@ Atualmente utilizo Sistema Ubuntu 22.10 e Windows 10.
  ## Contact
 <p>
 <a href="https://twitter.com/eirood_" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-rodineyw-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-eirood_-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/rodineywanderson" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-rodineyw-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Rodiney Wanderson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/eirood_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-rodineyw-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-eirood_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
