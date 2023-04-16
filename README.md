@@ -44,16 +44,19 @@ Atualmente utilizo Sistema Ubuntu 22.10 e Windows 10.
   
   ##
   
-  <div align="center">
-    <h2>Siga nas redes sociais: 😊</h2><br>     
-    
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/rodineyw)
-[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/iaeroooy/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ródiney-wanderson-06945b90/)
-[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/eirood_)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/eirood_/)
-   
-  </div>
+ ## Contact
+<p>
+<a href="https://twitter.com/eirood_" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-rodineyw-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/rodineywanderson" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-rodineyw-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/eirood_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-rodineyw-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
 
   ##
   
