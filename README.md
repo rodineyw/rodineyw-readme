@@ -26,7 +26,7 @@ Atualmente utilizo Sistema Ubuntu 22.10 e Windows 10.
 
 - Habilidades: **JavaScript, HTML, CSS, Node.JS**
 
-## Contact
+- Contato:
 
 <p>
 <a href="https://twitter.com/eirood_" target="_blank">
