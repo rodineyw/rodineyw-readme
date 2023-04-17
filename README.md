@@ -1,4 +1,6 @@
-  <h2>Olá! Eu sou Ródiney. </h2>
+[English Bellow]
+
+<h2>Olá! Eu sou Ródiney. </h2>
  
   <div>
   <p>
@@ -20,6 +22,27 @@ Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto 
   </p>
   </div>
 
+
+
+### Hello! I'm Rodney.
+
+<div>
+<p>
+- 👔 Currently looking for a job.
+</p>
+<p>
+- 📚️ I'm studying Internet of Things.
+</p>
+<p>  
+- 🥰 I'm very interested in working with Open Source.
+</p>
+<p>  
+- 😊 He/His</p>
+<p>  
+- 🧐 Curiosity about me:
+You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D illustrator since 2018, I love technology and I intend to develop myself in this area. I'm curious and I like to learn a little bit of everything. I always try to evolve in knowledge, I want to specialize in Open Source and Artificial Intelligence.
+ </p>
+  </div>
 
 <br><br>
 
