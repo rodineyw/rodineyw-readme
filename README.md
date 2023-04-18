@@ -24,7 +24,7 @@ Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto 
 
 
 
-### Hello! I'm Rodney.
+### Hello! I'm Rodiney.
 
 <div>
 <p>
