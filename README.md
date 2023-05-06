@@ -46,7 +46,7 @@ You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D 
 
 <br><br>
 
-- Habilidades: **JavaScript, HTML, CSS, Node.JS e React**
+- Habilidades: **JavaScript, HTML, CSS, Node.JS, React Native e Typescript**
 
 - Contato:
 
