@@ -1,6 +1,7 @@
 [English Bellow]
 
-<h2>Olá! Eu sou Ródiney. </h2>
+<h2 align="center">Olá! Eu sou Ródiney. </h2>
+
  
   <div>
   <p>
@@ -44,8 +45,6 @@ You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D 
  </p>
   </div>
   
-  
-<a href="https://app.daily.dev/rodineyw"><img src="devcard.svg" width="400" alt="rodineyw"/></a>
 
 <br><br>
 
@@ -67,6 +66,13 @@ You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D 
 
 
 ##
+
+<div flex-="center">
+<a href="https://github.com/rodineyw">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" />
+
+<a href="https://app.daily.dev/rodineyw"><img src="devcard.svg" width="300em" alt="rodineyw"/></a>
+ </div>
 
                                                                                                                   
 <div align="center">                   
