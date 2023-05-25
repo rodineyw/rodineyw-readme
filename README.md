@@ -45,7 +45,7 @@ You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D 
   </div>
   
   
-<a href="https://app.daily.dev/rodineyw"><img src="https://github.com/rodineyw/master/devcard.svg" width="400" alt="rodineyw"/></a>
+<a href="https://app.daily.dev/rodineyw"><img src="devcard.svg" width="400" alt="rodineyw"/></a>
 
 <br><br>
 
