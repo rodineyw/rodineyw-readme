@@ -43,6 +43,9 @@ Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto 
 You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D illustrator since 2018, I love technology and I intend to develop myself in this area. I'm curious and I like to learn a little bit of everything. I always try to evolve in knowledge, I want to specialize in Open Source and Artificial Intelligence.
  </p>
   </div>
+  
+  
+<a href="https://app.daily.dev/rodineyw"><img src="https://github.com/rodineyw/master/devcard.svg" width="400" alt="rodineyw"/></a>
 
 <br><br>
 
@@ -65,11 +68,6 @@ You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D 
 
 ##
 
-<div align="center">
-<a href="https://github.com/rodineyw">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineyw&layout=compact&theme=dracula&hide_border=true&count_private=true&&langs_count=10" />
-</div>
                                                                                                                   
 <div align="center">                   
                    
