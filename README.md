@@ -67,7 +67,7 @@ You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D 
 
 ##
 
-<div flex-="center">
+<div align="center">
 <a href="https://github.com/rodineyw">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" />
 
