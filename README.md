@@ -24,9 +24,14 @@ Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto 
   </div>
 
 
-
+<div align="center">
+ 
+ 
 ### Hello! I'm Rodiney.
 
+ </div>
+ 
+ 
 <div>
 <p>
 - 👔 Currently looking for a job.
@@ -70,7 +75,10 @@ You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D 
 <div align="center">
 <a href="https://github.com/rodineyw">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" />
-
+<a href="https://github.com/rodineyw/github-readme-stats">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineyw&theme=dracula&hide_border=true&layout=compact" />
+ 
+ 
 ---
  
 <a href="https://app.daily.dev/rodineyw"><img src="https://github.com/rodineyw/rodineyw/blob/main/devcard.svg" width="300em" alt="rodineyw"/></a>
