@@ -52,42 +52,70 @@ Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto 
 You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D illustrator since 2018, I love technology and I intend to develop myself in this area. I'm curious and I like to learn a little bit of everything. I always try to evolve in knowledge, I want to specialize in Open Source and Artificial Intelligence.
  </p>
  
- 
-
-  
+   
 
 <br><br>
-<h1 font-weight="bold">
+<h2 font-weight="bold">
  🦾 Skills:
 </h1>
-
+ </br> 
 <div align='center'>
+ <p>
+  <img height='25em' src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img height='25em' src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img height='25em' src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img height='25em' src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img height='25em' src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img height='25em' src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+ </p>
+ </div>
  
- **JavaScript, HTML, CSS, Node.JS, React Native e Typescript**
-
+ <h2 font-weight='bold'>
+  🏗️ Frameworks, Platforms and Libraries
+ </h1>
+  </br> 
+ <div align='center'>
+ <p>
+  <img height='28em' src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img height='28em' src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img height='28em' src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img height='28em' src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img height='28em' src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+  <img height='28em' src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+ </p>
+ </div>
+ 
+ 
+ <h2 font-weight='bold'>
+  ☁️ Hosting/Saas
+ </h1>
+  </br> 
+ <div align='center'>
+ <p>
+    <img height='28em' src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img height='28em' src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />   
+  </p> 
 </div>
 </br>
 
-<h1 font-weight="bold">
+<h2 font-weight="bold">
  📲 Contact:
 </h1>
-
+</br>
 <div align='center'>
 <p>
    
 <a href="https://twitter.com/eirood_" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-eirood_-05122A?style=flat&logo=twitter" alt="twitter"/> 
+  <img align="center" height="25" src="https://img.shields.io/badge/-eirood_-05122A?style=flat&logo=twitter" alt="twitter"/> 
 </a>
 <a href="https://www.linkedin.com/in/r%C3%B3diney-wanderson-06945b90/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Rodiney Wanderson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" height="25" src="https://img.shields.io/badge/-Rodiney Wanderson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/eirood_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-eirood_-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" height="25" src="https://img.shields.io/badge/-eirood_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
 </div>
-
 
 ##
 
