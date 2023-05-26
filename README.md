@@ -119,7 +119,7 @@ You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D 
 
 ##
 
-<h1 font-weight="bold">  📊 My GitHub Stats 📚 </h1>
+<h2 font-weight="bold">  📊 My GitHub Stats 📚 </h1>
 
 
 <div align='center'>
@@ -144,7 +144,7 @@ You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D 
  
  
  <details>
- <summary><h3><b>🎯 GitHub stats detailed</b></h3></summary>
+ <summary><h2><b>🎯 GitHub stats detailed</b></h3></summary>
  </br>
  <div align='center'>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodineyw&border_hide=true&theme=dracula" alt="Profile Details">
