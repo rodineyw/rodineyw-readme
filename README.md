@@ -21,8 +21,9 @@
   </p>
   <p>
 - 🧐 Curiosidade:<br>
-Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), sou ilustrador 2D desde 2018, amo tecnologia e pretendo me desenvolver nessa área. Sou curioso e gosto de aprender um pouco de tudo.
-Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto e Inteligência Artificial.
+<p>Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), sou ilustrador 2D desde 2018, amo técnologia e pretendo me desenvolver nessa área.</p>
+<p>Sou curioso e gosto de aprender um pouco de tudo.</p>
+<p>Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto e Inteligência Artificial.
   </p>
  
 
@@ -49,7 +50,9 @@ Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto 
 - 😊 He/His</p>
 <p>  
 - 🧐 Curiosity about me:
-You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D illustrator since 2018, I love technology and I intend to develop myself in this area. I'm curious and I like to learn a little bit of everything. I always try to evolve in knowledge, I want to specialize in Open Source and Artificial Intelligence.
+<p>You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D illustrator since 2018, I love technology and I intend to develop myself in this area.</p>
+<p>I'm curious and I like to learn a little bit of everything.</p>
+<p>I always try to evolve in knowledge, I want to specialize in Open Source and Artificial Intelligence.
  </p>
  
    
