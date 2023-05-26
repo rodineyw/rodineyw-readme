@@ -84,8 +84,7 @@ You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D 
   <img height='28em' src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
  </p>
  </div>
- 
- 
+  
  <h2 font-weight='bold'>
   ☁️ Hosting/Saas
  </h1>
@@ -96,8 +95,6 @@ You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D 
   <img height='28em' src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" />   
   </p> 
 </div>
-</br>
-
 <h2 font-weight="bold">
  📲 Contact:
 </h1>
