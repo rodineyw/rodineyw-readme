@@ -2,8 +2,11 @@
 
 <h2 align="center">Olá! Eu sou Ródiney. </h2>
 
+
+<a href="https://app.daily.dev/rodineyw"><img align="right" src="https://github.com/rodineyw/rodineyw/blob/main/devcard.svg" width="300em" alt="rodineyw"/></a>
+ </div>
  
-  <div>
+  
   <p>
 - 👔 Atualmente procurando emprego. 
   </p>
@@ -21,7 +24,7 @@
 Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), sou ilustrador 2D desde 2018, amo tecnologia e pretendo me desenvolver nessa área. Sou curioso e gosto de aprender um pouco de tudo.
 Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto e Inteligência Artificial.
   </p>
-  </div>
+ 
 
 
 <div align="center">
@@ -32,7 +35,7 @@ Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto 
  </div>
  
  
-<div>
+
 <p>
 - 👔 Currently looking for a job.
 </p>
@@ -48,18 +51,32 @@ Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto 
 - 🧐 Curiosity about me:
 You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D illustrator since 2018, I love technology and I intend to develop myself in this area. I'm curious and I like to learn a little bit of everything. I always try to evolve in knowledge, I want to specialize in Open Source and Artificial Intelligence.
  </p>
-  </div>
+ 
+ 
+
   
 
 <br><br>
+<h1 font-weight="bold">
+ 🦾 Skills:
+</h1>
 
-- Habilidades: **JavaScript, HTML, CSS, Node.JS, React Native e Typescript**
+<div align='center'>
+ 
+ **JavaScript, HTML, CSS, Node.JS, React Native e Typescript**
 
-- Contato:
+</div>
+</br>
 
+<h1 font-weight="bold">
+ 📲 Contact:
+</h1>
+
+<div align='center'>
 <p>
+   
 <a href="https://twitter.com/eirood_" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-eirood_-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-eirood_-05122A?style=flat&logo=twitter" alt="twitter"/> 
 </a>
 <a href="https://www.linkedin.com/in/r%C3%B3diney-wanderson-06945b90/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Rodiney Wanderson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -69,24 +86,47 @@ You can call me Rod. I'm graduating in IoT (Internet of Things), I've been a 2D 
 </a>
 </p>
 
+</div>
+
 
 ##
 
-<div align="center">
-<a href="https://github.com/rodineyw">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" />
-<a href="https://github.com/rodineyw/github-readme-stats">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineyw&theme=dracula&hide_border=true&layout=compact" />
- 
- 
----
- 
-<a href="https://app.daily.dev/rodineyw"><img src="https://github.com/rodineyw/rodineyw/blob/main/devcard.svg" width="300em" alt="rodineyw"/></a>
- </div>
+<h1 font-weight="bold">  📊 My GitHub Stats 📚 </h1>
 
+
+<div align='center'>
+
+<a href="https://github.com/rodineyw">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rodineyw&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&count_private=true" />
+</a>  
+<a href="https://github.com/rodineyw/github-readme-stats">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodineyw&theme=dracula&hide_border=true&layout=compact" />
+</a>
+ <br/>
+<a href="#">
+   <img  src="https://github-profile-trophy.vercel.app/?username=rodineyw&theme=dracula&hide_border=true&row=1&column=6" alt="trophy">
+</a>
+<a href="https://git.io/streak-stats">
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=rodineyw&theme=dracula" alt="GitHub Streak">
+</a> 
+</div>
+ <br/>
  
  ---
-                                                                                                                  
+ 
+ 
+ <details>
+ <summary><h3><b>🎯 GitHub stats detailed</b></h3></summary>
+ </br>
+ <div align='center'>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodineyw&border_hide=true&theme=dracula" alt="Profile Details">
+ 
+ </details>
+ 
+ ---
+ 
+ 
+ <br/>
 <div align="center">                   
                    
 ![Snake animation](https://github.com/rodineyw/rodineyw/blob/output/github-contribution-grid-snake.svg)
