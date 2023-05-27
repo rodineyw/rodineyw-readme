@@ -154,6 +154,13 @@
  ---
  
  
+ <div align='center'>
+ <a href="https://cloud.appwrite.io/card/647185a45bf52509bf07">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=647185a45bf52509bf07" alt="Appwrite Cloud Card" />
+</a>
+ </div>
+ 
+ 
  <br/>
 <div align="center">                   
                    
