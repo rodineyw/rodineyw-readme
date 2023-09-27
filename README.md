@@ -60,13 +60,16 @@
 </p>
 
 <p>I always try to evolve in knowledge, I want to specialize in Open Source and Artificial Intelligence.
-</p>
- 
- 📲 Contact:
-</h1>
-</br>
+
+</p> 
+
+
 <div align='center'>
-<p>
+<h3>📲 Contact:
+</h3>
+</br>
+
+ <p>
 
 <a href="mailto:rodineyw@yahoo.com.br" target="_blank">
   <img align="center" height="25" src="https://img.shields.io/badge/-rodineyw-05122A?style=flat&logo=yahoo" alt="yahoo"/> 
@@ -75,12 +78,15 @@
 <a href="https://twitter.com/eirood_" target="_blank">
   <img align="center" height="25" src="https://img.shields.io/badge/-eirood_-05122A?style=flat&logo=twitter" alt="twitter"/> 
 </a>
+
 <a href="https://www.linkedin.com/in/r%C3%B3diney-wanderson-06945b90/" target="_blank">
   <img align="center" height="25" src="https://img.shields.io/badge/-Rodiney Wanderson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+
 <a href="https://instagram.com/eirood_" target="_blank">
  <img align="center" height="25" src="https://img.shields.io/badge/-eirood_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+
 </p>
 </div>
 
