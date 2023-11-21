@@ -21,7 +21,7 @@
   </p>
   <p>
 - 🧐 Curiosidade:<br>
-<p>Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), amo técnologia e pretendo me desenvolver nessa área.</p>
+<p>Pode me chamar de Ród. Estou Graduando em IoT (Internet of Things), amo tecnologia e pretendo me desenvolver nessa área.</p>
 <p>Sou curioso e gosto de aprender um pouco de tudo.</p>
 <p>Desenvolvedor Python Jr, prática em automação de sistemas e analise de Dados.</p>
 <p>Sempre procuro evoluir em conhecimento, quero me especializar em Código Aberto e Inteligência Artificial.</p>
