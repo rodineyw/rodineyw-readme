@@ -128,6 +128,9 @@
 <a href="https://github.com/rodineyw?tab=followers"><img src="https://img.shields.io/github/followers/rodineyw?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
+<p align="center">
+<a href="https://gist.github.com/rodineyw"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="rodineyw :: Visitor's Count" /></a>
+</p>
                    
 ![Snake animation](https://github.com/rodineyw/rodineyw/blob/output/github-contribution-grid-snake.svg)
                   
