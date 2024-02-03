@@ -8,7 +8,7 @@
  
   
   <p>
-- 👔 Legal Operations na empresa: Perez de Rezende - Advocacia. 
+- 👔 Legal Operations na empresa: Perez de Rezende - Advogados 
   </p>
   <p>
 - 📚️ Faço faculdade de Internet das Coisas.
@@ -38,7 +38,7 @@
  
 
 <p>
-- 👔 Legal Operations at the company: Perez de Rezende - Advocacia
+- 👔 Legal Operations at the company: Perez de Rezende - Lawyers
 </p>
 <p>
 - 📚️ I'm studying Internet of Things.
