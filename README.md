@@ -8,7 +8,7 @@
  
   
   <p>
-- 👔 Estagiário Legal Operations na empresa: Perez de Rezende - Advocacia. 
+- 👔 Legal Operations na empresa: Perez de Rezende - Advocacia. 
   </p>
   <p>
 - 📚️ Faço faculdade de Internet das Coisas.
@@ -38,7 +38,7 @@
  
 
 <p>
-- 👔 Internship in Legal Operations at the company: Perez de Rezende - Advocacia
+- 👔 Legal Operations at the company: Perez de Rezende - Advocacia
 </p>
 <p>
 - 📚️ I'm studying Internet of Things.
