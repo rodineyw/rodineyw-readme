@@ -3,8 +3,7 @@
 <h2 align="center">Olá! Eu sou Ródiney. </h2>
 
 
-<a href="https://app.daily.dev/rodineyw"><img align="right" src="https://github.com/rodineyw/rodineyw/blob/main/devcard.svg" width="300em" alt="rodineyw"/></a>
- </div>
+<a href="https://app.daily.dev/rodineyw"><img align="right" src="https://api.daily.dev/devcards/v2/iK1sOSOuCvk6UVpoFTbwS.png?r=1v9&type=default" width="300em" alt="rodineyw"/></a>
  
   
   <p>
