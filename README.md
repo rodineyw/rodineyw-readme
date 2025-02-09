@@ -70,10 +70,6 @@
 
  <p>
 
-<a href="mailto:rodineyw@yahoo.com.br" target="_blank">
-  <img align="center" height="25" src="https://img.shields.io/badge/-rodineyw-05122A?style=flat&logo=yahoo" alt="yahoo"/> 
-</a>
-
 <a href="https://www.linkedin.com/in/r%C3%B3diney-wanderson-06945b90/" target="_blank">
   <img align="center" height="25" src="https://img.shields.io/badge/-Rodiney Wanderson-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
